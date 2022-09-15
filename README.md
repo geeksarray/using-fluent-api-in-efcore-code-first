@@ -1,4 +1,4 @@
-# using fluent api in efcore code first
+# Using Fluent API in EF Core code first
 
 In this blogpost explains how to configure entities using Fluent API of Entity Framework Core or EF6 above versions for the Code First approach. This will give you details about how to configure business rules with Fluent API methods for PrimaryKey, Unique, Index, Required, Identity, etc.
 
